@@ -1,0 +1,4 @@
+(executable
+ (public_name incr_dom_tetris)
+ (name main)
+ (libraries incr_dom_tetris))
